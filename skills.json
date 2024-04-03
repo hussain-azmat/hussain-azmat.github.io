@@ -1,8 +1,7 @@
 [
     {
         "name": "MatLAB",
-        //"icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
-        "icon": "https://www.google.com/search?sca_esv=50eae9b505889d1f&sca_upv=1&rlz=1C1GCEA_enPK1086PK1086&sxsrf=ACQVn0_ZmQVGxjESnC_jXreURZxHynVLbA:1712159725912&q=matlab+logo&uds=AMwkrPs3ghOrfxmnifAvFiOF0sUmXdglzXFpRgUkReSirG1emyykhulbRZ7j4ZDKX7f0iVQ9Buoj3tE8K34eSvXqNflXdBnp4LfbbZ-qGvZILVwJx4U6eHl_4ZcAdHYQdh0RAyHAlNJaOXqPaAXsIDCua-pq_T-Ni4FPBRet6qcelHfnPokjSXUwYSPmEZsiHzZsPYqK2A9gF-dpNjTHIAsZkNWptLWu57bdzWfBLf48095v1s8xX5TGJgQUULuThp90RlcZYEhUB1KRB47UyrtoG2inL348CQ&udm=2&prmd=isvnbz&sa=X&sqi=2&ved=2ahUKEwjt1IuCtKaFAxX23AIHHf-tA-kQtKgLegQIERAB&biw=1280&bih=593&dpr=1.5#vhid=eOSxXj9Y-KwPTM&vssid=mosaic"
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
         "name": "ExpressJS",
