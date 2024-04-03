@@ -3,7 +3,7 @@
     "name": "JAZARI - Pakistan's 1st 3d Printed Humanoid Robot",
     "desc": "JAZARI is Pakistan's 1st ever completely 3d printed humanoid robot. It was made ",
     "image": "jazari1",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "https://www.linkedin.com/feed/update/urn:li:activity:7075514013857517569/",
       "code": "https://github.com/hussain-azmat"
@@ -13,7 +13,7 @@
     "name": "Weeding Machine - Agricultural Robot",
     "desc": "Pakistan's 1st weeding robot made in collaboration with german recearch center for artificial intelligence.",
     "image": "weedrobot1",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "https://www.mdpi.com/2075-1702/11/2/287",
       "code": "https://github.com/hussain-azmat"
@@ -23,7 +23,7 @@
     "name": "Reverse Vending Machine",
     "desc": "The reverse vending machine was designed to encourage pet bottle collection by rewarding users with cashable points against plastic.",
     "image": "rvm",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "https://www.mdpi.com/2313-4321/7/5/70",
       "code": "https://github.com/hussain-azmat"
@@ -33,7 +33,7 @@
     "name": "Kinetic Display",
     "desc": "A moving display made with motors and lights.",
     "image": "kineticdisplay",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "some_demo",
       "code": "https://github.com/hussain-azmat"
@@ -43,7 +43,7 @@
     "name": "Energy Metering Device",
     "desc": "We made this portable energy meter to record electricty consumption which was also recorded on cloud",
     "image": "energymeter",
-    "category": "android",
+    "category": "lamp",
     "links": {
       "view": "demo",
       "code": "https://github.com/hussain-azmat"
@@ -53,7 +53,7 @@
     "name": "SoS Emergency Alarm Device",
     "desc": "The device was made as prototype for engro.",
     "image": "sos",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "demo",
       "code": "https://github.com/hussain-azmat"
