@@ -48,5 +48,15 @@
       "view": "demo",
       "code": "https://github.com/hussain-azmat"
     }
+  },
+  {
+    "name": "SoS Emergency Alarm Device",
+    "desc": "The device was made as prototype for engro.",
+    "image": "sos",
+    "category": "android",
+    "links": {
+      "view": "demo",
+      "code": "https://github.com/hussain-azmat"
+    }
   }
 ]
