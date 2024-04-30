@@ -1,7 +1,7 @@
 [
     {
         "name": "ROS",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/ros.png"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/ros.png?raw=true"
     },
     {
         "name": "Python",
@@ -9,19 +9,19 @@
     },
     {
         "name": "MatLAB",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/matlab.png"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/matlab.png?raw=true"
     },
     {
         "name": "C Programming",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/c.png"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/arduino.png?raw=true"
     },
     {
         "name": "IoT",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/iot.png"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/iot.png?raw=true"
     },
     {
         "name": "Arduino",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/arduino.png"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/arduino.png?raw=true"
     },
     {
         "name": "React",
