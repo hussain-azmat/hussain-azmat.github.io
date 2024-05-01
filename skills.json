@@ -1,7 +1,11 @@
 [
     {
         "name": "ROS",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/ros.png?raw=true"
+        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/ros.png?raw=true",
+        "size": {
+        "width": "48px",
+        "height": "48px"
+    }
     },
     {
         "name": "Python",
