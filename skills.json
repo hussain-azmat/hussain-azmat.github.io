@@ -1,13 +1,5 @@
 [
     {
-        "name": "ROS",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/ros.png?raw=true",
-        "size": {
-        "width": "48px",
-        "height": "48px"
-    }
-    },
-    {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
@@ -18,10 +10,6 @@
     {
         "name": "C Programming",
         "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/arduino.png?raw=true"
-    },
-    {
-        "name": "IoT",
-        "icon": "https://github.com/hussain-azmat/hussain-azmat.github.io/blob/main/assets/images/skills/iot.png?raw=true"
     },
     {
         "name": "Arduino",
