@@ -103,14 +103,14 @@ particlesJS('particles-js',
           }
         },
         "bubble": {
-          "distance": 300,
+          "distance": 400,
           "size": 40,
           "duration": 2,
           "opacity": 8,
           "speed": 3
         },
         "repulse": {
-          "distance": 100
+          "distance": 200
         },
         "push": {
           "particles_nb": 4
